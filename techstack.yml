@@ -1,7 +1,7 @@
 repo_name: nice-org-two/Java-5
-report_id: 73ae358288377b59ed45e90d1e6e4c12
+report_id: 41279f28e1d4f85fd7b41a3fba606fba
 repo_type: Public
-timestamp: '2023-11-07T12:49:20+00:00'
+timestamp: '2023-11-08T07:32:58+00:00'
 requested_by: joeyajames
 provider: github
 branch: master
@@ -15,7 +15,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/995/K85ZWV2F.png
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,5 +24,5 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
